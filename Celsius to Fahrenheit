@@ -1,0 +1,5 @@
+#celsius to Fahrenheit 
+print ("enter degree in celsius")
+celsius = input ( )
+x = (9/5) * float(celsius) + 32
+print (x)
