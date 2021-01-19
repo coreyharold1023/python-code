@@ -1,0 +1,5 @@
+
+print ("enter dergree in farenheight")
+Fahrenheit = input (  )
+x = (float (Fahrenheit)  - 32) * 5 / 9
+print (x)
