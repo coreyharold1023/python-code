@@ -1,0 +1,10 @@
+print ("whats your hours")
+hours = input( )
+print ("whats your rate")
+rate = input( )
+try:
+    total = float (hours) * float (rate)
+    print ("total", total)
+except:
+    print ("Error, plaease enter a numaricial value, try again")
+    
